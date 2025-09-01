@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mineflayer": "^4.32.0",
+    "mineflayer-collectblock": "^1.6.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "mineflayer-viaproxy": "^0.4.0"
+  }
+}
